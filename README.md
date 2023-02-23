@@ -1,4 +1,7 @@
 # Mobile-Price-Range-Prediction
+
+This is the Capstone project which is a part of my Data Science training at AlmaBetter.
+
 A Machine Learning project to predict a price range indicating how high the price of a mobile when the specifications of a mobile are given.
 
 
